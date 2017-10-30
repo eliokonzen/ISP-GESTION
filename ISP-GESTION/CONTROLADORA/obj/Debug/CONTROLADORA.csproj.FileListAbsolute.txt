@@ -20,3 +20,25 @@ C:\Users\Elio\Google Drive\ISP-GESTION\CONTROLADORA\obj\Debug\CONTROLADORA.cspro
 C:\Users\Elio\Google Drive\ISP-GESTION\CONTROLADORA\obj\Debug\CONTROLADORA.csproj.CoreCompileInputs.cache
 C:\Users\Elio\Google Drive\ISP-GESTION\CONTROLADORA\obj\Debug\CONTROLADORA.dll
 C:\Users\Elio\Google Drive\ISP-GESTION\CONTROLADORA\obj\Debug\CONTROLADORA.pdb
+D:\Elio\Documents\GitHub\ISP-GESTION\ISP-GESTION\CONTROLADORA\bin\Debug\CONTROLADORA.dll.config
+D:\Elio\Documents\GitHub\ISP-GESTION\ISP-GESTION\CONTROLADORA\bin\Debug\CONTROLADORA.dll
+D:\Elio\Documents\GitHub\ISP-GESTION\ISP-GESTION\CONTROLADORA\bin\Debug\CONTROLADORA.pdb
+D:\Elio\Documents\GitHub\ISP-GESTION\ISP-GESTION\CONTROLADORA\bin\Debug\EntityFramework.dll
+D:\Elio\Documents\GitHub\ISP-GESTION\ISP-GESTION\CONTROLADORA\bin\Debug\EntityFramework.SqlServer.dll
+D:\Elio\Documents\GitHub\ISP-GESTION\ISP-GESTION\CONTROLADORA\bin\Debug\MODELO.dll
+D:\Elio\Documents\GitHub\ISP-GESTION\ISP-GESTION\CONTROLADORA\bin\Debug\SimpleInjector.dll
+D:\Elio\Documents\GitHub\ISP-GESTION\ISP-GESTION\CONTROLADORA\bin\Debug\tik4net.dll
+D:\Elio\Documents\GitHub\ISP-GESTION\ISP-GESTION\CONTROLADORA\bin\Debug\tik4net.objects.dll
+D:\Elio\Documents\GitHub\ISP-GESTION\ISP-GESTION\CONTROLADORA\bin\Debug\MODELO.pdb
+D:\Elio\Documents\GitHub\ISP-GESTION\ISP-GESTION\CONTROLADORA\bin\Debug\MODELO.dll.config
+D:\Elio\Documents\GitHub\ISP-GESTION\ISP-GESTION\CONTROLADORA\bin\Debug\tik4net.objects.pdb
+D:\Elio\Documents\GitHub\ISP-GESTION\ISP-GESTION\CONTROLADORA\bin\Debug\tik4net.objects.xml
+D:\Elio\Documents\GitHub\ISP-GESTION\ISP-GESTION\CONTROLADORA\bin\Debug\tik4net.pdb
+D:\Elio\Documents\GitHub\ISP-GESTION\ISP-GESTION\CONTROLADORA\bin\Debug\tik4net.xml
+D:\Elio\Documents\GitHub\ISP-GESTION\ISP-GESTION\CONTROLADORA\bin\Debug\EntityFramework.xml
+D:\Elio\Documents\GitHub\ISP-GESTION\ISP-GESTION\CONTROLADORA\bin\Debug\EntityFramework.SqlServer.xml
+D:\Elio\Documents\GitHub\ISP-GESTION\ISP-GESTION\CONTROLADORA\bin\Debug\SimpleInjector.xml
+D:\Elio\Documents\GitHub\ISP-GESTION\ISP-GESTION\CONTROLADORA\obj\Debug\CONTROLADORA.csprojResolveAssemblyReference.cache
+D:\Elio\Documents\GitHub\ISP-GESTION\ISP-GESTION\CONTROLADORA\obj\Debug\CONTROLADORA.csproj.CoreCompileInputs.cache
+D:\Elio\Documents\GitHub\ISP-GESTION\ISP-GESTION\CONTROLADORA\obj\Debug\CONTROLADORA.dll
+D:\Elio\Documents\GitHub\ISP-GESTION\ISP-GESTION\CONTROLADORA\obj\Debug\CONTROLADORA.pdb

@@ -27,3 +27,32 @@ C:\Users\Elio\Google Drive\ISP-GESTION\VISTA\bin\Debug\tik4net.objects.pdb
 C:\Users\Elio\Google Drive\ISP-GESTION\VISTA\bin\Debug\tik4net.objects.xml
 C:\Users\Elio\Google Drive\ISP-GESTION\VISTA\obj\Debug\VISTA.frmIP.resources
 C:\Users\Elio\Google Drive\ISP-GESTION\VISTA\obj\Debug\VISTA.frmMenu.resources
+D:\Elio\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\bin\Debug\VISTA.exe.config
+D:\Elio\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\bin\Debug\VISTA.exe
+D:\Elio\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\bin\Debug\VISTA.pdb
+D:\Elio\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\bin\Debug\CONTROLADORA.dll
+D:\Elio\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\bin\Debug\EntityFramework.dll
+D:\Elio\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\bin\Debug\EntityFramework.SqlServer.dll
+D:\Elio\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\bin\Debug\MODELO.dll
+D:\Elio\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\bin\Debug\SimpleInjector.dll
+D:\Elio\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\bin\Debug\tik4net.dll
+D:\Elio\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\bin\Debug\tik4net.objects.dll
+D:\Elio\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\bin\Debug\CONTROLADORA.pdb
+D:\Elio\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\bin\Debug\CONTROLADORA.dll.config
+D:\Elio\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\bin\Debug\MODELO.pdb
+D:\Elio\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\bin\Debug\MODELO.dll.config
+D:\Elio\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\bin\Debug\tik4net.objects.pdb
+D:\Elio\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\bin\Debug\tik4net.objects.xml
+D:\Elio\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\bin\Debug\tik4net.pdb
+D:\Elio\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\bin\Debug\tik4net.xml
+D:\Elio\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\bin\Debug\EntityFramework.xml
+D:\Elio\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\bin\Debug\EntityFramework.SqlServer.xml
+D:\Elio\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\bin\Debug\SimpleInjector.xml
+D:\Elio\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\obj\Debug\VISTA.csprojResolveAssemblyReference.cache
+D:\Elio\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\obj\Debug\VISTA.frmIP.resources
+D:\Elio\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\obj\Debug\VISTA.frmMenu.resources
+D:\Elio\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\obj\Debug\VISTA.Properties.Resources.resources
+D:\Elio\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\obj\Debug\VISTA.csproj.GenerateResource.Cache
+D:\Elio\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\obj\Debug\VISTA.csproj.CoreCompileInputs.cache
+D:\Elio\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\obj\Debug\VISTA.exe
+D:\Elio\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\obj\Debug\VISTA.pdb
