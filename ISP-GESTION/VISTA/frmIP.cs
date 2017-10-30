@@ -19,6 +19,7 @@ namespace VISTA
 
         private void btnAction_Click(object sender, EventArgs e)
         {
+            //ss
             CONTROLADORA.Prueba cPrueba = new CONTROLADORA.Prueba();
             dtgActions.DataSource = cPrueba.listIPAddressess();
         }
