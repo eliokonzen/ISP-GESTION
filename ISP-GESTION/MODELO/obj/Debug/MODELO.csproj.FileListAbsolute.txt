@@ -1,0 +1,13 @@
+C:\Users\Elio\Google Drive\ISP-GESTION\MODELO\bin\Debug\MODELO.dll.config
+C:\Users\Elio\Google Drive\ISP-GESTION\MODELO\bin\Debug\MODELO.dll
+C:\Users\Elio\Google Drive\ISP-GESTION\MODELO\bin\Debug\MODELO.pdb
+C:\Users\Elio\Google Drive\ISP-GESTION\MODELO\bin\Debug\EntityFramework.dll
+C:\Users\Elio\Google Drive\ISP-GESTION\MODELO\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Elio\Google Drive\ISP-GESTION\MODELO\bin\Debug\SimpleInjector.dll
+C:\Users\Elio\Google Drive\ISP-GESTION\MODELO\bin\Debug\EntityFramework.xml
+C:\Users\Elio\Google Drive\ISP-GESTION\MODELO\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Elio\Google Drive\ISP-GESTION\MODELO\bin\Debug\SimpleInjector.xml
+C:\Users\Elio\Google Drive\ISP-GESTION\MODELO\obj\Debug\MODELO.csprojResolveAssemblyReference.cache
+C:\Users\Elio\Google Drive\ISP-GESTION\MODELO\obj\Debug\MODELO.csproj.CoreCompileInputs.cache
+C:\Users\Elio\Google Drive\ISP-GESTION\MODELO\obj\Debug\MODELO.dll
+C:\Users\Elio\Google Drive\ISP-GESTION\MODELO\obj\Debug\MODELO.pdb

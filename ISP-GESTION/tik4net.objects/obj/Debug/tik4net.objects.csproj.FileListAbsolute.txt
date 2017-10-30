@@ -1,0 +1,10 @@
+C:\Users\Elio\Google Drive\ISP-GESTION\tik4net.objects\bin\Debug\tik4net.objects.XML
+C:\Users\Elio\Google Drive\ISP-GESTION\tik4net.objects\bin\Debug\tik4net.objects.dll
+C:\Users\Elio\Google Drive\ISP-GESTION\tik4net.objects\bin\Debug\tik4net.objects.pdb
+C:\Users\Elio\Google Drive\ISP-GESTION\tik4net.objects\bin\Debug\tik4net.dll
+C:\Users\Elio\Google Drive\ISP-GESTION\tik4net.objects\bin\Debug\tik4net.pdb
+C:\Users\Elio\Google Drive\ISP-GESTION\tik4net.objects\bin\Debug\tik4net.xml
+C:\Users\Elio\Google Drive\ISP-GESTION\tik4net.objects\obj\Debug\tik4net.objects.csprojResolveAssemblyReference.cache
+C:\Users\Elio\Google Drive\ISP-GESTION\tik4net.objects\obj\Debug\tik4net.objects.csproj.CoreCompileInputs.cache
+C:\Users\Elio\Google Drive\ISP-GESTION\tik4net.objects\obj\Debug\tik4net.objects.dll
+C:\Users\Elio\Google Drive\ISP-GESTION\tik4net.objects\obj\Debug\tik4net.objects.pdb
