@@ -72,6 +72,7 @@
             this.Controls.Add(this.btnAction);
             this.Name = "frmIP";
             this.Text = "frmIP";
+            this.Load += new System.EventHandler(this.frmIP_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dtgActions)).EndInit();
             this.ResumeLayout(false);
 

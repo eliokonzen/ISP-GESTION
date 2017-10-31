@@ -20,11 +20,13 @@ namespace CONTROLADORA
             return lista.ToList();
 
         }
-        public void delateIPAddressess(IpAddress ss)
+        
+        //Ejemplo de como eliminar IpAddress con el ORM Tik4net
+        public void delateIPAddressess(IpAddress oIpAddress)
         {
 
             cConexion = MikrotikConection.OBTENER_INSTANCIA();
-            
+            cConexion.connection.Delete<IpAddress>(oIpAddress);
         }
 
         //Elio malo qleado filho da puta

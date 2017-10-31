@@ -18,3 +18,13 @@ C:\Users\Franco\Documents\GitHub\ISP-GESTION\ISP-GESTION\tik4net.objects\obj\Deb
 C:\Users\Franco\Documents\GitHub\ISP-GESTION\ISP-GESTION\tik4net.objects\obj\Debug\tik4net.objects.csproj.CoreCompileInputs.cache
 C:\Users\Franco\Documents\GitHub\ISP-GESTION\ISP-GESTION\tik4net.objects\obj\Debug\tik4net.objects.dll
 C:\Users\Franco\Documents\GitHub\ISP-GESTION\ISP-GESTION\tik4net.objects\obj\Debug\tik4net.objects.pdb
+D:\Elio\Documents\GitHub\ISP-GESTION\ISP-GESTION\tik4net.objects\bin\Debug\tik4net.objects.XML
+D:\Elio\Documents\GitHub\ISP-GESTION\ISP-GESTION\tik4net.objects\bin\Debug\tik4net.objects.dll
+D:\Elio\Documents\GitHub\ISP-GESTION\ISP-GESTION\tik4net.objects\bin\Debug\tik4net.objects.pdb
+D:\Elio\Documents\GitHub\ISP-GESTION\ISP-GESTION\tik4net.objects\bin\Debug\tik4net.dll
+D:\Elio\Documents\GitHub\ISP-GESTION\ISP-GESTION\tik4net.objects\bin\Debug\tik4net.pdb
+D:\Elio\Documents\GitHub\ISP-GESTION\ISP-GESTION\tik4net.objects\bin\Debug\tik4net.xml
+D:\Elio\Documents\GitHub\ISP-GESTION\ISP-GESTION\tik4net.objects\obj\Debug\tik4net.objects.csprojResolveAssemblyReference.cache
+D:\Elio\Documents\GitHub\ISP-GESTION\ISP-GESTION\tik4net.objects\obj\Debug\tik4net.objects.csproj.CoreCompileInputs.cache
+D:\Elio\Documents\GitHub\ISP-GESTION\ISP-GESTION\tik4net.objects\obj\Debug\tik4net.objects.dll
+D:\Elio\Documents\GitHub\ISP-GESTION\ISP-GESTION\tik4net.objects\obj\Debug\tik4net.objects.pdb
