@@ -8,16 +8,21 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using CONTROLADORA;
+using tik4net;
+using tik4net.Objects;
 
 namespace VISTA
 {
     public partial class frmIP : Form
     {
+        List<tik4net.Objects.Ip.IpAddress> nueva;
+        List<tik4net.Objects.Ip.IpAddress> vieja;
         public frmIP()
-        {
+        {  
             InitializeComponent();
+            Prueba cPrueba = new CONTROLADORA.Prueba();
         }
-
+      
         private void btnAction_Click(object sender, EventArgs e)
         {
             
@@ -29,7 +34,6 @@ namespace VISTA
             Prueba cPrueba = new CONTROLADORA.Prueba();
             var oIpAddress = (tik4net.Objects.Ip.IpAddress)dtgActions.CurrentRow.DataBoundItem;
             cPrueba.delateIPAddressess(oIpAddress);
-
             Actualizar_DtgActions();
 
         }
@@ -43,7 +47,16 @@ namespace VISTA
         private void Actualizar_DtgActions()
         {
             Prueba cPrueba = new CONTROLADORA.Prueba();
-            dtgActions.DataSource = cPrueba.listIPAddressess();
+            vieja = cPrueba.listIPAddressess();
+            nueva = cPrueba.listIPAddressess();
+            dtgActions.DataSource = nueva;
+        }
+
+        private void btnEditar_Click(object sender, EventArgs e)
+        {
+            Prueba prueba = new CONTROLADORA.Prueba();
+            prueba.updateIPAddressess(vieja, nueva);
+            Actualizar_DtgActions();
         }
     }
 }
