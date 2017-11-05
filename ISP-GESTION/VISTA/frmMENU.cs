@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using VISTA.Conexiones;
 
 namespace VISTA
 {
@@ -26,6 +27,12 @@ namespace VISTA
         {
             frmIP frm = new frmIP();
             frm.Show();
+        }
+
+        private void gestionarConexionesToolStripMenuItem_Click(object sender, EventArgs e)
+        {  
+            frmGestionarConexiones frm = new frmGestionarConexiones();
+            frm.ShowDialog();
         }
     }
 }
