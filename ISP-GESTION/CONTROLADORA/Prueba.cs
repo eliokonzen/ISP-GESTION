@@ -29,6 +29,14 @@ namespace CONTROLADORA
             cConexion.connection.Delete<IpAddress>(oIpAddress);
         }
 
+        public void updateIPAddressess (List<IpAddress> oldList, List<IpAddress> newList)
+        {
+            cConexion = MikrotikConection.OBTENER_INSTANCIA();
+            cConexion.connection.SaveListDifferences(newList, oldList);
+            
+
+
+        }
         //Elio malo qleado filho da puta
         //Vai come rola 
 
