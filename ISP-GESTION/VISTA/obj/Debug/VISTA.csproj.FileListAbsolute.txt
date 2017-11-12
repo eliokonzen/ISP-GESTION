@@ -115,3 +115,4 @@ C:\Users\Jalinka\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\obj\Debug\VISTA.
 C:\Users\Jalinka\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\obj\Debug\VISTA.exe
 C:\Users\Jalinka\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\obj\Debug\VISTA.pdb
 D:\Elio\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\obj\Debug\VISTA.Conexiones.frmGestionarConexiones.resources
+C:\Users\Jalinka\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\obj\Debug\VISTA.Conexiones.frmGestionarConexiones.resources
