@@ -10,17 +10,19 @@ using System.Windows.Forms;
 using CONTROLADORA;
 using tik4net;
 using tik4net.Objects;
+using tik4net.Objects.Ip.PPP;
 
 namespace VISTA
 {
     public partial class frmIP : Form
     {
-        List<tik4net.Objects.Ip.IpAddress> nueva;
-        List<tik4net.Objects.Ip.IpAddress> vieja;
+        List<tik4net.Objects.Ip.PPP.PPPSecrets> nueva;
+        List<tik4net.Objects.Ip.PPP.PPPSecrets> vieja;
         public frmIP()
         {  
             InitializeComponent();
             Prueba cPrueba = new CONTROLADORA.Prueba();
+            Actualizar_DtgActions();
         }
       
         private void btnAction_Click(object sender, EventArgs e)
@@ -47,15 +49,17 @@ namespace VISTA
         private void Actualizar_DtgActions()
         {
             Prueba cPrueba = new CONTROLADORA.Prueba();
-            vieja = cPrueba.listIPAddressess();
-            nueva = cPrueba.listIPAddressess();
+            vieja = cPrueba.ObtenerConexiones();
+            nueva = cPrueba.ObtenerConexiones();
+
             dtgActions.DataSource = nueva;
+            
         }
 
         private void btnEditar_Click(object sender, EventArgs e)
         {
             Prueba prueba = new CONTROLADORA.Prueba();
-            prueba.updateIPAddressess(vieja, nueva);
+            prueba.UpdateConexiones(vieja, nueva);
             Actualizar_DtgActions();
         }
     }

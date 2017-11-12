@@ -20,8 +20,8 @@ namespace MODELO
         {
             modelBuilder.Conventions.Remove<PluralizingTableNameConvention>();
 
-            //modelBuilder.Entity<Country>()
-            //    .HasKey(_ => _.IdCountry);
+            modelBuilder.Entity<Conexion>()
+             .HasKey(_ => _.Id);
 
             //modelBuilder.Entity<State>()
             //    .HasKey(_ => _.IdState)
@@ -34,7 +34,7 @@ namespace MODELO
 
         }
 
-        //public DbSet<Country> Countries { get; set; }
+        public DbSet<Conexion> Conexiones { get; set; }
         //public DbSet<State> States { get; set; }
         //public DbSet<City> Cities { get; set; }
 
