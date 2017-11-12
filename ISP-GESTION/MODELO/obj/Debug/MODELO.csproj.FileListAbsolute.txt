@@ -37,3 +37,16 @@ C:\Users\Jalinka\Documents\GitHub\ISP-GESTION\ISP-GESTION\MODELO\obj\Debug\MODEL
 C:\Users\Jalinka\Documents\GitHub\ISP-GESTION\ISP-GESTION\MODELO\obj\Debug\MODELO.csproj.CoreCompileInputs.cache
 C:\Users\Jalinka\Documents\GitHub\ISP-GESTION\ISP-GESTION\MODELO\obj\Debug\MODELO.dll
 C:\Users\Jalinka\Documents\GitHub\ISP-GESTION\ISP-GESTION\MODELO\obj\Debug\MODELO.pdb
+D:\Elio\Documents\GitHub\ISP-GESTION\ISP-GESTION\MODELO\bin\Debug\MODELO.dll.config
+D:\Elio\Documents\GitHub\ISP-GESTION\ISP-GESTION\MODELO\bin\Debug\MODELO.dll
+D:\Elio\Documents\GitHub\ISP-GESTION\ISP-GESTION\MODELO\bin\Debug\MODELO.pdb
+D:\Elio\Documents\GitHub\ISP-GESTION\ISP-GESTION\MODELO\bin\Debug\EntityFramework.dll
+D:\Elio\Documents\GitHub\ISP-GESTION\ISP-GESTION\MODELO\bin\Debug\EntityFramework.SqlServer.dll
+D:\Elio\Documents\GitHub\ISP-GESTION\ISP-GESTION\MODELO\bin\Debug\SimpleInjector.dll
+D:\Elio\Documents\GitHub\ISP-GESTION\ISP-GESTION\MODELO\bin\Debug\EntityFramework.xml
+D:\Elio\Documents\GitHub\ISP-GESTION\ISP-GESTION\MODELO\bin\Debug\EntityFramework.SqlServer.xml
+D:\Elio\Documents\GitHub\ISP-GESTION\ISP-GESTION\MODELO\bin\Debug\SimpleInjector.xml
+D:\Elio\Documents\GitHub\ISP-GESTION\ISP-GESTION\MODELO\obj\Debug\MODELO.csprojResolveAssemblyReference.cache
+D:\Elio\Documents\GitHub\ISP-GESTION\ISP-GESTION\MODELO\obj\Debug\MODELO.csproj.CoreCompileInputs.cache
+D:\Elio\Documents\GitHub\ISP-GESTION\ISP-GESTION\MODELO\obj\Debug\MODELO.dll
+D:\Elio\Documents\GitHub\ISP-GESTION\ISP-GESTION\MODELO\obj\Debug\MODELO.pdb
