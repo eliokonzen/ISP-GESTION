@@ -28,11 +28,33 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
+            this.dgvConexiones = new System.Windows.Forms.DataGridView();
+            ((System.ComponentModel.ISupportInitialize)(this.dgvConexiones)).BeginInit();
+            this.SuspendLayout();
+            // 
+            // dgvConexiones
+            // 
+            this.dgvConexiones.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dgvConexiones.Location = new System.Drawing.Point(28, 51);
+            this.dgvConexiones.Name = "dgvConexiones";
+            this.dgvConexiones.Size = new System.Drawing.Size(868, 216);
+            this.dgvConexiones.TabIndex = 0;
+            // 
+            // frmGestionarConexiones
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.ClientSize = new System.Drawing.Size(933, 321);
+            this.Controls.Add(this.dgvConexiones);
+            this.Name = "frmGestionarConexiones";
             this.Text = "frmGestionarConexiones";
+            ((System.ComponentModel.ISupportInitialize)(this.dgvConexiones)).EndInit();
+            this.ResumeLayout(false);
+
         }
 
         #endregion
+
+        private System.Windows.Forms.DataGridView dgvConexiones;
     }
 }
