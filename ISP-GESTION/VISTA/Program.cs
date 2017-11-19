@@ -4,6 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
+
 namespace VISTA
 {
     static class Program
@@ -16,6 +17,7 @@ namespace VISTA
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
+            MODELO.SingletonContext.CreateInstance();
             Application.Run(new frmMenu());
         }
     }

@@ -13,10 +13,11 @@ namespace VISTA.Conexiones
 {
     public partial class frmGestionarConexiones : Form
     {
-        private readonly CONTROLADORA.CtrlConexiones cConexiones = new CONTROLADORA.CtrlConexiones();
+       private readonly CONTROLADORA.CtrlConexiones cConexiones = new CONTROLADORA.CtrlConexiones();
         public frmGestionarConexiones()
         {
             InitializeComponent();
+          //  cargaradb();
         }
 
         private void btnSalir_Click(object sender, EventArgs e)
@@ -26,8 +27,24 @@ namespace VISTA.Conexiones
 
         private void frmGestionarConexiones_Load(object sender, EventArgs e)
         {
+           dgvConexiones.DataSource = cConexiones.DBObtenerConexiones();
+         //  base.OnLoad(e);
+        }
+        private void cargaradb()
+        {
+            MODELO.Conexion oConexion = new MODELO.Conexion();
+            //oConexion.Id = 15;
+            //oConexion.Name = "Elio";
+            //oConexion.Password = "1234";
+            //oConexion.Profile = "default";
+            //oConexion.RemoteAddress = "192.168.1.1";
+            //oConexion.LocalAddress = "asdf";
+            //oConexion.Service = "asdf";
+
+            CONTROLADORA.CtrlConexiones cConexiones = new CONTROLADORA.CtrlConexiones();
+            //cConexiones.add(oConexion);
             dgvConexiones.DataSource = cConexiones.DBObtenerConexiones();
-            base.OnLoad(e);
+
         }
     }
 }

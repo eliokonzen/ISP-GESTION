@@ -14,5 +14,14 @@ namespace CONTROLADORA
             return context.Conexiones.ToList();
             
         }
+
+        public void add (MODELO.Conexion conexion)
+        {
+            var con = SingletonContext.GetContext();
+            con.Conexiones.Add(conexion);
+            con.SaveChanges();
+
+
+        }
     }
 }

@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using SimpleInjector;
+using System.Data.Entity;
 
 namespace MODELO
 {
@@ -22,7 +23,7 @@ namespace MODELO
             if (_container != null) return;
 
             _container = new Container();
-          //  _container.Register<DbContext, Context>();
+            _container.Register<DbContext, Context>();
         }
 
         public static Context GetContext()
