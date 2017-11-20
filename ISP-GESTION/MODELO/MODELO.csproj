@@ -52,6 +52,7 @@
   <ItemGroup>
     <Compile Include="Conexion.cs" />
     <Compile Include="Context.cs" />
+    <Compile Include="Plan.cs" />
     <Compile Include="SingletonContext.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

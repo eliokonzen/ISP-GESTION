@@ -22,12 +22,12 @@ namespace VISTA.Conexiones
 
         private void btnSalir_Click(object sender, EventArgs e)
         {
-            this.Close();
+             this.Close();
         }
 
         private void frmGestionarConexiones_Load(object sender, EventArgs e)
         {
-           dgvConexiones.DataSource = cConexiones.DBObtenerConexiones();
+            dgvConexiones.DataSource = cConexiones.DBObtenerConexiones();
          //  base.OnLoad(e);
         }
         private void cargaradb()

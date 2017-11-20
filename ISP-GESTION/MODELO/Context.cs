@@ -23,9 +23,10 @@ namespace MODELO
             modelBuilder.Entity<Conexion>()
              .HasKey(_ => _.Id);
 
-            //modelBuilder.Entity<State>()
-            //    .HasKey(_ => _.IdState)
-            //    .HasRequired(_ => _.Country);
+            modelBuilder.Entity<Plan>()
+             .HasKey(_ => _.Id);
+           
+             
 
             //modelBuilder.Entity<City>()
             //    .HasKey(_ => _.IdCity)
@@ -35,7 +36,7 @@ namespace MODELO
         }
 
         public DbSet<Conexion> Conexiones { get; set; }
-        //public DbSet<State> States { get; set; }
+        public DbSet<Plan> Planes { get; set; }
         //public DbSet<City> Cities { get; set; }
 
     }

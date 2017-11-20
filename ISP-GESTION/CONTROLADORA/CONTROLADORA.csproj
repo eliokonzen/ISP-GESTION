@@ -52,6 +52,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="CtrlConexiones.cs" />
+    <Compile Include="CtrlPlanes.cs" />
     <Compile Include="MikrotikConection.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Prueba.cs" />

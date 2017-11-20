@@ -89,6 +89,7 @@
     <Compile Include="Ip\DhcpServer\DhcpServerConfig.cs" />
     <Compile Include="Ip\IpDns.cs" />
     <Compile Include="Ip\IpPool.cs" />
+    <Compile Include="Ip\PPP\PPPProfiles.cs" />
     <Compile Include="Ip\PPP\PPPSecrets.cs" />
     <Compile Include="MacAddress.cs" />
     <Compile Include="PropertyInfoExtensions.cs" />

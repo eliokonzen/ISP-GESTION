@@ -16,7 +16,8 @@ namespace VISTA
 {
     public partial class frmIP : Form
     {
-        List<tik4net.Objects.Ip.PPP.PPPSecrets> nueva;
+        List<tik4net.Objects.Ip.PPP.PPPProfiles> nueva;
+        // List<tik4net.Objects.Ip.PPP.PPPSecrets> nueva;
         List<tik4net.Objects.Ip.PPP.PPPSecrets> vieja;
         public frmIP()
         {  
@@ -27,8 +28,10 @@ namespace VISTA
       
         private void btnAction_Click(object sender, EventArgs e)
         {
-            
-            Actualizar_DtgActions();
+            CtrlPlanes cPlanes = new CtrlPlanes();
+            cPlanes.AddPlan();
+
+         //   Actualizar_DtgActions();
         }
 
         private void btnEliminar_Click(object sender, EventArgs e)
@@ -49,8 +52,8 @@ namespace VISTA
         private void Actualizar_DtgActions()
         {
             Prueba cPrueba = new CONTROLADORA.Prueba();
-            vieja = cPrueba.ObtenerConexiones();
-            nueva = cPrueba.ObtenerConexiones();
+           // vieja = cPrueba.ObtenerConexiones();
+            nueva = cPrueba.ObtenerProfiles();
 
             dtgActions.DataSource = nueva;
             
@@ -58,9 +61,9 @@ namespace VISTA
 
         private void btnEditar_Click(object sender, EventArgs e)
         {
-            Prueba prueba = new CONTROLADORA.Prueba();
-            prueba.UpdateConexiones(vieja, nueva);
-            Actualizar_DtgActions();
+            //Prueba prueba = new CONTROLADORA.Prueba();
+            //prueba.UpdateConexiones(vieja, nueva);
+            //Actualizar_DtgActions();
         }
     }
 }

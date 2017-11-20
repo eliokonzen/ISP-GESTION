@@ -8,7 +8,11 @@ namespace CONTROLADORA
 {
     public class CtrlConexiones
     {
-      public IList<Conexion> DBObtenerConexiones()
+
+        /// <summary>
+        /// Prueba de Sumary
+        /// </summary>
+        public IList<Conexion> DBObtenerConexiones()
         {
             var context = SingletonContext.GetContext();
             return context.Conexiones.ToList();

@@ -51,6 +51,12 @@ namespace CONTROLADORA
         //Elio malo qleado filho da puta
         //Vai come rola 
 
+        public List<PPPProfiles> ObtenerProfiles()
+        {
+            cConexion = MikrotikConection.OBTENER_INSTANCIA();
+            var lista = cConexion.connection.LoadList<PPPProfiles>();
+            return lista.ToList();
 
+        }
     }
 }
