@@ -15,7 +15,7 @@ namespace MODELO
         public string RemoteAddress { get; set; }
         public string DnsServer { get; set; }
         public string RateLimit { get; set; }
-       // public ICollection<Conexion> Conexiones { get; set; }
+        public ICollection<Conexion> Conexiones { get; set; }
 
 
     }

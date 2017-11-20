@@ -50,3 +50,9 @@ D:\Elio\Documents\GitHub\ISP-GESTION\ISP-GESTION\MODELO\obj\Debug\MODELO.csprojR
 D:\Elio\Documents\GitHub\ISP-GESTION\ISP-GESTION\MODELO\obj\Debug\MODELO.csproj.CoreCompileInputs.cache
 D:\Elio\Documents\GitHub\ISP-GESTION\ISP-GESTION\MODELO\obj\Debug\MODELO.dll
 D:\Elio\Documents\GitHub\ISP-GESTION\ISP-GESTION\MODELO\obj\Debug\MODELO.pdb
+D:\Elio\Documents\GitHub\ISP-GESTION\ISP-GESTION\MODELO\bin\Debug\tik4net.dll
+D:\Elio\Documents\GitHub\ISP-GESTION\ISP-GESTION\MODELO\bin\Debug\tik4net.objects.dll
+D:\Elio\Documents\GitHub\ISP-GESTION\ISP-GESTION\MODELO\bin\Debug\tik4net.objects.pdb
+D:\Elio\Documents\GitHub\ISP-GESTION\ISP-GESTION\MODELO\bin\Debug\tik4net.objects.xml
+D:\Elio\Documents\GitHub\ISP-GESTION\ISP-GESTION\MODELO\bin\Debug\tik4net.pdb
+D:\Elio\Documents\GitHub\ISP-GESTION\ISP-GESTION\MODELO\bin\Debug\tik4net.xml

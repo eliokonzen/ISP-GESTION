@@ -22,9 +22,12 @@ namespace MODELO
 
             modelBuilder.Entity<Conexion>()
              .HasKey(_ => _.Id);
+            
 
             modelBuilder.Entity<Plan>()
-             .HasKey(_ => _.Id);
+             .HasKey(_ => _.Id)
+             .HasMany(_ => _.Conexiones);
+            
            
              
 

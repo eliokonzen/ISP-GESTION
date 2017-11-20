@@ -7,16 +7,17 @@ using tik4net;
 using tik4net.Objects;
 using tik4net.Objects.Ip;
 using tik4net.Objects.Ip.PPP;
+using MODELO;
 namespace CONTROLADORA
 {
     public class Prueba
     {
-        CONTROLADORA.MikrotikConection cConexion;
+        MODELO.MikrotikConection cConexion;
 
         public List<IpAddress> listIPAddressess()
         {
 
-            cConexion = MikrotikConection.OBTENER_INSTANCIA();
+            cConexion = MikrotikConection.ObtenerInstancia();
             var lista = cConexion.connection.LoadList<IpAddress>();
             return lista.ToList();
 
@@ -26,26 +27,26 @@ namespace CONTROLADORA
         public void delateIPAddressess(IpAddress oIpAddress)
         {
 
-            cConexion = MikrotikConection.OBTENER_INSTANCIA();
+            cConexion = MikrotikConection.ObtenerInstancia();
             cConexion.connection.Delete<IpAddress>(oIpAddress);
         }
 
         public void updateIPAddressess (List<IpAddress> oldList, List<IpAddress> newList)
         {
-            cConexion = MikrotikConection.OBTENER_INSTANCIA();
+            cConexion = MikrotikConection.ObtenerInstancia();
             cConexion.connection.SaveListDifferences(newList, oldList);
      
         }
         public List<PPPSecrets> ObtenerConexiones()
         {
-            cConexion = MikrotikConection.OBTENER_INSTANCIA();
+            cConexion = MikrotikConection.ObtenerInstancia();
             var lista = cConexion.connection.LoadList<PPPSecrets>();
             return lista.ToList();
 
         }
         public void UpdateConexiones(List<PPPSecrets> oldList, List<PPPSecrets> newList)
         {
-            cConexion = MikrotikConection.OBTENER_INSTANCIA();
+            cConexion = MikrotikConection.ObtenerInstancia();
             cConexion.connection.SaveListDifferences(newList, oldList);
         }
         //Elio malo qleado filho da puta
@@ -53,7 +54,7 @@ namespace CONTROLADORA
 
         public List<PPPProfiles> ObtenerProfiles()
         {
-            cConexion = MikrotikConection.OBTENER_INSTANCIA();
+            cConexion = MikrotikConection.ObtenerInstancia();
             var lista = cConexion.connection.LoadList<PPPProfiles>();
             return lista.ToList();
 
