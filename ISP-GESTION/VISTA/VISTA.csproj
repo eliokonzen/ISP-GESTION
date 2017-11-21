@@ -55,6 +55,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Conexiones\frmAgregarConexion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Conexiones\frmAgregarConexion.Designer.cs">
+      <DependentUpon>frmAgregarConexion.cs</DependentUpon>
+    </Compile>
     <Compile Include="Conexiones\frmGestionarConexiones.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -75,6 +81,9 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Conexiones\frmAgregarConexion.resx">
+      <DependentUpon>frmAgregarConexion.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Conexiones\frmGestionarConexiones.resx">
       <DependentUpon>frmGestionarConexiones.cs</DependentUpon>
     </EmbeddedResource>

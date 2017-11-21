@@ -26,6 +26,8 @@ namespace MODELO
           
             public string LocalAddress { get; set; }
 
-           public string RemoteAddress { get; set; }
+            public string RemoteAddress { get; set; }
+
+            public Plan Plan { get; set; }
     }
 }
