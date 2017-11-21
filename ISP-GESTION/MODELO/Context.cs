@@ -22,11 +22,13 @@ namespace MODELO
 
             modelBuilder.Entity<Conexion>()
              .HasKey(_ => _.Id);
+             
             
 
             modelBuilder.Entity<Plan>()
              .HasKey(_ => _.Id)
              .HasMany(_ => _.Conexiones);
+            
             
            
              
@@ -40,7 +42,7 @@ namespace MODELO
 
         public DbSet<Conexion> Conexiones { get; set; }
         public DbSet<Plan> Planes { get; set; }
-        //public DbSet<City> Cities { get; set; }
+       
 
     }
 
