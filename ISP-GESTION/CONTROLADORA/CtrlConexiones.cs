@@ -15,14 +15,14 @@ namespace CONTROLADORA
         public IList<Conexion> DBObtenerConexiones()
         {
             var context = SingletonContext.GetContext();
-            return context.Conexiones.ToList();
+            return context.CtrlConexiones.ToList();
             
         }
 
         public void add (MODELO.Conexion conexion)
         {
             var con = SingletonContext.GetContext();
-            con.Conexiones.Add(conexion);
+            con.CtrlConexiones.Add(conexion);
             con.SaveChanges();
 
 

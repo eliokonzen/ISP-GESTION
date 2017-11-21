@@ -11,6 +11,7 @@ namespace MODELO
         
         public string Id { get; private set; }
         public string Name { get; set; }
+        
         public string LocalAddress { get; set; }
         public string RemoteAddress { get; set; }
         public string DnsServer { get; set; }

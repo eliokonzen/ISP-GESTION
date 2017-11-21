@@ -56,3 +56,9 @@ D:\Elio\Documents\GitHub\ISP-GESTION\ISP-GESTION\MODELO\bin\Debug\tik4net.object
 D:\Elio\Documents\GitHub\ISP-GESTION\ISP-GESTION\MODELO\bin\Debug\tik4net.objects.xml
 D:\Elio\Documents\GitHub\ISP-GESTION\ISP-GESTION\MODELO\bin\Debug\tik4net.pdb
 D:\Elio\Documents\GitHub\ISP-GESTION\ISP-GESTION\MODELO\bin\Debug\tik4net.xml
+C:\Users\Jalinka\Documents\GitHub\ISP-GESTION\ISP-GESTION\MODELO\bin\Debug\tik4net.dll
+C:\Users\Jalinka\Documents\GitHub\ISP-GESTION\ISP-GESTION\MODELO\bin\Debug\tik4net.objects.dll
+C:\Users\Jalinka\Documents\GitHub\ISP-GESTION\ISP-GESTION\MODELO\bin\Debug\tik4net.objects.pdb
+C:\Users\Jalinka\Documents\GitHub\ISP-GESTION\ISP-GESTION\MODELO\bin\Debug\tik4net.objects.xml
+C:\Users\Jalinka\Documents\GitHub\ISP-GESTION\ISP-GESTION\MODELO\bin\Debug\tik4net.pdb
+C:\Users\Jalinka\Documents\GitHub\ISP-GESTION\ISP-GESTION\MODELO\bin\Debug\tik4net.xml
