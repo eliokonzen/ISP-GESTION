@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 D:\Elio\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\bin\Debug\VISTA.exe.config
 D:\Elio\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\bin\Debug\VISTA.exe
 D:\Elio\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\bin\Debug\VISTA.pdb
@@ -31,3 +32,38 @@ D:\Elio\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\obj\Debug\VISTA.csproj.Ge
 D:\Elio\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\obj\Debug\VISTA.csproj.CoreCompileInputs.cache
 D:\Elio\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\obj\Debug\VISTA.exe
 D:\Elio\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\obj\Debug\VISTA.pdb
+=======
+C:\Users\Jalinka\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\bin\Debug\VISTA.exe.config
+C:\Users\Jalinka\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\bin\Debug\VISTA.exe
+C:\Users\Jalinka\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\bin\Debug\VISTA.pdb
+C:\Users\Jalinka\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\bin\Debug\CONTROLADORA.dll
+C:\Users\Jalinka\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\bin\Debug\EntityFramework.dll
+C:\Users\Jalinka\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jalinka\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\bin\Debug\MODELO.dll
+C:\Users\Jalinka\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\bin\Debug\SimpleInjector.dll
+C:\Users\Jalinka\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\bin\Debug\tik4net.dll
+C:\Users\Jalinka\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\bin\Debug\tik4net.objects.dll
+C:\Users\Jalinka\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\bin\Debug\CONTROLADORA.pdb
+C:\Users\Jalinka\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\bin\Debug\CONTROLADORA.dll.config
+C:\Users\Jalinka\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\bin\Debug\MODELO.pdb
+C:\Users\Jalinka\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\bin\Debug\MODELO.dll.config
+C:\Users\Jalinka\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\bin\Debug\tik4net.objects.pdb
+C:\Users\Jalinka\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\bin\Debug\tik4net.objects.xml
+C:\Users\Jalinka\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\bin\Debug\tik4net.pdb
+C:\Users\Jalinka\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\bin\Debug\tik4net.xml
+C:\Users\Jalinka\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\bin\Debug\EntityFramework.xml
+C:\Users\Jalinka\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jalinka\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\bin\Debug\SimpleInjector.xml
+C:\Users\Jalinka\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\obj\Debug\VISTA.csprojResolveAssemblyReference.cache
+C:\Users\Jalinka\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\obj\Debug\VISTA.Clientes.frmFiltrarCliente.resources
+C:\Users\Jalinka\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\obj\Debug\VISTA.Conexiones.frmAgregarConexion.resources
+C:\Users\Jalinka\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\obj\Debug\VISTA.Conexiones.frmGestionarConexiones.resources
+C:\Users\Jalinka\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\obj\Debug\VISTA.frmIP.resources
+C:\Users\Jalinka\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\obj\Debug\VISTA.frmMenu.resources
+C:\Users\Jalinka\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\obj\Debug\VISTA.Login.resources
+C:\Users\Jalinka\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\obj\Debug\VISTA.Properties.Resources.resources
+C:\Users\Jalinka\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\obj\Debug\VISTA.csproj.GenerateResource.Cache
+C:\Users\Jalinka\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\obj\Debug\VISTA.csproj.CoreCompileInputs.cache
+C:\Users\Jalinka\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\obj\Debug\VISTA.exe
+C:\Users\Jalinka\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\obj\Debug\VISTA.pdb
+>>>>>>> e9b56e1930cdc57614abdc73b1fec38e65e8d2ea

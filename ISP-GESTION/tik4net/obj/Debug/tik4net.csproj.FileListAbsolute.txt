@@ -19,3 +19,10 @@ D:\Elio\Documents\GitHub\ISP-GESTION\ISP-GESTION\tik4net\obj\Debug\tik4net.cspro
 D:\Elio\Documents\GitHub\ISP-GESTION\ISP-GESTION\tik4net\obj\Debug\tik4net.csproj.CoreCompileInputs.cache
 D:\Elio\Documents\GitHub\ISP-GESTION\ISP-GESTION\tik4net\obj\Debug\tik4net.dll
 D:\Elio\Documents\GitHub\ISP-GESTION\ISP-GESTION\tik4net\obj\Debug\tik4net.pdb
+C:\Users\Jalinka\Documents\GitHub\ISP-GESTION\ISP-GESTION\tik4net\bin\Debug\tik4net.XML
+C:\Users\Jalinka\Documents\GitHub\ISP-GESTION\ISP-GESTION\tik4net\bin\Debug\tik4net.dll
+C:\Users\Jalinka\Documents\GitHub\ISP-GESTION\ISP-GESTION\tik4net\bin\Debug\tik4net.pdb
+C:\Users\Jalinka\Documents\GitHub\ISP-GESTION\ISP-GESTION\tik4net\obj\Debug\tik4net.csprojResolveAssemblyReference.cache
+C:\Users\Jalinka\Documents\GitHub\ISP-GESTION\ISP-GESTION\tik4net\obj\Debug\tik4net.csproj.CoreCompileInputs.cache
+C:\Users\Jalinka\Documents\GitHub\ISP-GESTION\ISP-GESTION\tik4net\obj\Debug\tik4net.dll
+C:\Users\Jalinka\Documents\GitHub\ISP-GESTION\ISP-GESTION\tik4net\obj\Debug\tik4net.pdb

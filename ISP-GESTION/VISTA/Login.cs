@@ -15,12 +15,24 @@ namespace VISTA
         public Login()
         {
             InitializeComponent();
+            lblUSUARIO.Visible = false;
+            lblCONTRASENA.Visible = false;
         }
 
         private void btnACEPTAR_Click(object sender, EventArgs e)
         {
             frmMenu frm = new frmMenu();
             frm.ShowDialog();
+        }
+
+        private void btnSALIR_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
+
+        private void Login_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }
