@@ -15,8 +15,6 @@ namespace MODELO
 
         public string Name { get; set; }
 
-
-<<<<<<< HEAD
         public string Password { get; set; }
 
         public string Profile { get; set; }
@@ -31,10 +29,6 @@ namespace MODELO
 
         public int Plan { get; set; }
 
-=======
-            public string RemoteAddress { get; set; }
 
-            public Plan Plan { get; set; }
->>>>>>> 368ead786adba47042433e77431a2517dd4ad596
     }
 }
