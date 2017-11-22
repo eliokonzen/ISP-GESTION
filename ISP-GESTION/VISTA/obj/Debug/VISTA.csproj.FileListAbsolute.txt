@@ -124,3 +124,4 @@ C:\Users\Jalinka\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\obj\Debug\VISTA.
 C:\Users\Jalinka\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\obj\Debug\VISTA.Login.resources
 >>>>>>> f8d06738fd6e94c89aad21dad9154deaa57662ec
 D:\Elio\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\obj\Debug\VISTA.Login.resources
+C:\Users\Jalinka\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\obj\Debug\VISTA.Clientes.frmFiltrarCliente.resources
