@@ -34,7 +34,7 @@
             this.btnGuardar = new System.Windows.Forms.Button();
             this.btnSeleccionarCliente = new System.Windows.Forms.Button();
             this.txtClienteNombre = new System.Windows.Forms.TextBox();
-            this.s = new System.Windows.Forms.TextBox();
+            this.txtOrganizacion = new System.Windows.Forms.TextBox();
             this.label2 = new System.Windows.Forms.Label();
             this.txtUbicacion = new System.Windows.Forms.TextBox();
             this.label3 = new System.Windows.Forms.Label();
@@ -87,6 +87,7 @@
             this.btnGuardar.TabIndex = 3;
             this.btnGuardar.Text = "Guardar";
             this.btnGuardar.UseVisualStyleBackColor = true;
+            this.btnGuardar.Click += new System.EventHandler(this.btnGuardar_Click);
             // 
             // btnSeleccionarCliente
             // 
@@ -96,22 +97,23 @@
             this.btnSeleccionarCliente.TabIndex = 4;
             this.btnSeleccionarCliente.Text = "Seleccionar Cliente";
             this.btnSeleccionarCliente.UseVisualStyleBackColor = true;
+            this.btnSeleccionarCliente.Click += new System.EventHandler(this.btnSeleccionarCliente_Click);
             // 
             // txtClienteNombre
             // 
-            this.txtClienteNombre.Enabled = false;
             this.txtClienteNombre.Location = new System.Drawing.Point(117, 91);
             this.txtClienteNombre.Name = "txtClienteNombre";
+            this.txtClienteNombre.ReadOnly = true;
             this.txtClienteNombre.Size = new System.Drawing.Size(240, 20);
             this.txtClienteNombre.TabIndex = 5;
             // 
-            // s
+            // txtOrganizacion
             // 
-            this.s.Enabled = false;
-            this.s.Location = new System.Drawing.Point(117, 119);
-            this.s.Name = "s";
-            this.s.Size = new System.Drawing.Size(108, 20);
-            this.s.TabIndex = 6;
+            this.txtOrganizacion.Location = new System.Drawing.Point(117, 119);
+            this.txtOrganizacion.Name = "txtOrganizacion";
+            this.txtOrganizacion.ReadOnly = true;
+            this.txtOrganizacion.Size = new System.Drawing.Size(108, 20);
+            this.txtOrganizacion.TabIndex = 6;
             // 
             // label2
             // 
@@ -249,7 +251,7 @@
             this.groupBox2.Controls.Add(this.label3);
             this.groupBox2.Controls.Add(this.txtUbicacion);
             this.groupBox2.Controls.Add(this.label2);
-            this.groupBox2.Controls.Add(this.s);
+            this.groupBox2.Controls.Add(this.txtOrganizacion);
             this.groupBox2.Controls.Add(this.txtClienteNombre);
             this.groupBox2.Controls.Add(this.btnSeleccionarCliente);
             this.groupBox2.Controls.Add(this.cmbPlan);
@@ -289,7 +291,7 @@
         private System.Windows.Forms.Button btnGuardar;
         private System.Windows.Forms.Button btnSeleccionarCliente;
         private System.Windows.Forms.TextBox txtClienteNombre;
-        private System.Windows.Forms.TextBox s;
+        private System.Windows.Forms.TextBox txtOrganizacion;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.TextBox txtUbicacion;
         private System.Windows.Forms.Label label3;

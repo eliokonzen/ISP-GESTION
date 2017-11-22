@@ -10,14 +10,14 @@ namespace CONTROLADORA
    public class CtrlPlanes
     {
 
-        public void AddPlan(Plan oPlan)
+        public void AgregarPlan(Plans oPlan)
         {
-            var con = SingletonContext.GetContext();
-            con.Planes.Add(oPlan);
-            con.SaveChanges();
+            var cons = SingletonContext.GetContext();
+            cons.Planes.Add(oPlan);
+            cons.SaveChanges();
         }
 
-        public List<Plan> DBPlanes()
+        public List<Plans> ListarPlanes()
         {
             var context = SingletonContext.GetContext();
             var attr = context.Planes.ToList();

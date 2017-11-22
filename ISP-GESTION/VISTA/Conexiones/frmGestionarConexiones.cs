@@ -27,7 +27,7 @@ namespace VISTA.Conexiones
 
         private void frmGestionarConexiones_Load(object sender, EventArgs e)
         {
-            dgvConexiones.DataSource = cConexiones.DBObtenerConexiones();
+            dgvConexiones.DataSource = cConexiones.ListarConexiones();
          //  base.OnLoad(e);
         }
         private void cargaradb()
@@ -43,8 +43,14 @@ namespace VISTA.Conexiones
 
             CONTROLADORA.CtrlConexiones cConexiones = new CONTROLADORA.CtrlConexiones();
             //cConexiones.add(oConexion);
-            dgvConexiones.DataSource = cConexiones.DBObtenerConexiones();
+            dgvConexiones.DataSource = cConexiones.ListarConexiones();
 
+        }
+
+        private void btnAgregar_Click(object sender, EventArgs e)
+        {
+            frmAgregarConexion frm = new frmAgregarConexion();
+            frm.ShowDialog();
         }
     }
 }

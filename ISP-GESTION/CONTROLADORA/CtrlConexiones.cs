@@ -12,14 +12,14 @@ namespace CONTROLADORA
         /// <summary>
         /// Prueba de Sumary
         /// </summary>
-        public IList<Conexion> DBObtenerConexiones()
+        public IList<Conexion> ListarConexiones()
         {
             var context = SingletonContext.GetContext();
             return context.Conexiones.ToList();
             
         }
 
-        public void add (MODELO.Conexion conexion)
+        public void AgregarConexion (MODELO.Conexion conexion)
         {
             var con = SingletonContext.GetContext();
             con.Conexiones.Add(conexion);

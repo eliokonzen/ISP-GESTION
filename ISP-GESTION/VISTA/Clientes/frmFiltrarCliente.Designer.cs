@@ -44,6 +44,7 @@
             this.btnAceptar.TabIndex = 1;
             this.btnAceptar.Text = "Aceptar";
             this.btnAceptar.UseVisualStyleBackColor = true;
+            this.btnAceptar.Click += new System.EventHandler(this.btnAceptar_Click);
             // 
             // btnCancelar
             // 
@@ -90,6 +91,7 @@
             this.Controls.Add(this.btnAceptar);
             this.Name = "frmFiltrarCliente";
             this.Text = "::.. Filtar Cliente";
+            this.Load += new System.EventHandler(this.frmFiltrarCliente_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dgvClientes)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();

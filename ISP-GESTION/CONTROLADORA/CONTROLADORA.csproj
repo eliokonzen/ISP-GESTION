@@ -51,6 +51,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CtrlClientes.cs" />
     <Compile Include="CtrlConexiones.cs" />
     <Compile Include="CtrlPlanes.cs" />
     <Compile Include="ModSeguridad\Encryptor.cs" />
