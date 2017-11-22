@@ -1,90 +1,3 @@
-C:\Users\Elio\Google Drive\ISP-GESTION\VISTA\bin\Debug\VISTA.exe.config
-C:\Users\Elio\Google Drive\ISP-GESTION\VISTA\bin\Debug\VISTA.exe
-C:\Users\Elio\Google Drive\ISP-GESTION\VISTA\bin\Debug\VISTA.pdb
-C:\Users\Elio\Google Drive\ISP-GESTION\VISTA\obj\Debug\VISTA.csprojResolveAssemblyReference.cache
-C:\Users\Elio\Google Drive\ISP-GESTION\VISTA\obj\Debug\VISTA.Properties.Resources.resources
-C:\Users\Elio\Google Drive\ISP-GESTION\VISTA\obj\Debug\VISTA.csproj.GenerateResource.Cache
-C:\Users\Elio\Google Drive\ISP-GESTION\VISTA\obj\Debug\VISTA.csproj.CoreCompileInputs.cache
-C:\Users\Elio\Google Drive\ISP-GESTION\VISTA\obj\Debug\VISTA.exe
-C:\Users\Elio\Google Drive\ISP-GESTION\VISTA\obj\Debug\VISTA.pdb
-C:\Users\Elio\Google Drive\ISP-GESTION\VISTA\bin\Debug\CONTROLADORA.dll
-C:\Users\Elio\Google Drive\ISP-GESTION\VISTA\bin\Debug\EntityFramework.dll
-C:\Users\Elio\Google Drive\ISP-GESTION\VISTA\bin\Debug\EntityFramework.SqlServer.dll
-C:\Users\Elio\Google Drive\ISP-GESTION\VISTA\bin\Debug\MODELO.dll
-C:\Users\Elio\Google Drive\ISP-GESTION\VISTA\bin\Debug\SimpleInjector.dll
-C:\Users\Elio\Google Drive\ISP-GESTION\VISTA\bin\Debug\tik4net.dll
-C:\Users\Elio\Google Drive\ISP-GESTION\VISTA\bin\Debug\tik4net.objects.dll
-C:\Users\Elio\Google Drive\ISP-GESTION\VISTA\bin\Debug\CONTROLADORA.pdb
-C:\Users\Elio\Google Drive\ISP-GESTION\VISTA\bin\Debug\CONTROLADORA.dll.config
-C:\Users\Elio\Google Drive\ISP-GESTION\VISTA\bin\Debug\MODELO.pdb
-C:\Users\Elio\Google Drive\ISP-GESTION\VISTA\bin\Debug\MODELO.dll.config
-C:\Users\Elio\Google Drive\ISP-GESTION\VISTA\bin\Debug\EntityFramework.xml
-C:\Users\Elio\Google Drive\ISP-GESTION\VISTA\bin\Debug\EntityFramework.SqlServer.xml
-C:\Users\Elio\Google Drive\ISP-GESTION\VISTA\bin\Debug\SimpleInjector.xml
-C:\Users\Elio\Google Drive\ISP-GESTION\VISTA\bin\Debug\tik4net.pdb
-C:\Users\Elio\Google Drive\ISP-GESTION\VISTA\bin\Debug\tik4net.xml
-C:\Users\Elio\Google Drive\ISP-GESTION\VISTA\bin\Debug\tik4net.objects.pdb
-C:\Users\Elio\Google Drive\ISP-GESTION\VISTA\bin\Debug\tik4net.objects.xml
-C:\Users\Elio\Google Drive\ISP-GESTION\VISTA\obj\Debug\VISTA.frmIP.resources
-C:\Users\Elio\Google Drive\ISP-GESTION\VISTA\obj\Debug\VISTA.frmMenu.resources
-D:\Elio\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\bin\Debug\VISTA.exe.config
-D:\Elio\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\bin\Debug\VISTA.exe
-D:\Elio\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\bin\Debug\VISTA.pdb
-D:\Elio\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\bin\Debug\CONTROLADORA.dll
-D:\Elio\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\bin\Debug\EntityFramework.dll
-D:\Elio\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\bin\Debug\EntityFramework.SqlServer.dll
-D:\Elio\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\bin\Debug\MODELO.dll
-D:\Elio\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\bin\Debug\SimpleInjector.dll
-D:\Elio\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\bin\Debug\tik4net.dll
-D:\Elio\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\bin\Debug\tik4net.objects.dll
-D:\Elio\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\bin\Debug\CONTROLADORA.pdb
-D:\Elio\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\bin\Debug\CONTROLADORA.dll.config
-D:\Elio\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\bin\Debug\MODELO.pdb
-D:\Elio\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\bin\Debug\MODELO.dll.config
-D:\Elio\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\bin\Debug\tik4net.objects.pdb
-D:\Elio\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\bin\Debug\tik4net.objects.xml
-D:\Elio\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\bin\Debug\tik4net.pdb
-D:\Elio\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\bin\Debug\tik4net.xml
-D:\Elio\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\bin\Debug\EntityFramework.xml
-D:\Elio\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\bin\Debug\EntityFramework.SqlServer.xml
-D:\Elio\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\bin\Debug\SimpleInjector.xml
-D:\Elio\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\obj\Debug\VISTA.csprojResolveAssemblyReference.cache
-D:\Elio\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\obj\Debug\VISTA.frmIP.resources
-D:\Elio\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\obj\Debug\VISTA.frmMenu.resources
-D:\Elio\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\obj\Debug\VISTA.Properties.Resources.resources
-D:\Elio\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\obj\Debug\VISTA.csproj.GenerateResource.Cache
-D:\Elio\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\obj\Debug\VISTA.csproj.CoreCompileInputs.cache
-D:\Elio\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\obj\Debug\VISTA.exe
-D:\Elio\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\obj\Debug\VISTA.pdb
-C:\Users\Franco\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\bin\Debug\VISTA.exe.config
-C:\Users\Franco\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\bin\Debug\VISTA.exe
-C:\Users\Franco\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\bin\Debug\VISTA.pdb
-C:\Users\Franco\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\bin\Debug\CONTROLADORA.dll
-C:\Users\Franco\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\bin\Debug\EntityFramework.dll
-C:\Users\Franco\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\bin\Debug\EntityFramework.SqlServer.dll
-C:\Users\Franco\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\bin\Debug\MODELO.dll
-C:\Users\Franco\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\bin\Debug\SimpleInjector.dll
-C:\Users\Franco\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\bin\Debug\tik4net.dll
-C:\Users\Franco\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\bin\Debug\tik4net.objects.dll
-C:\Users\Franco\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\bin\Debug\CONTROLADORA.pdb
-C:\Users\Franco\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\bin\Debug\CONTROLADORA.dll.config
-C:\Users\Franco\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\bin\Debug\MODELO.pdb
-C:\Users\Franco\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\bin\Debug\MODELO.dll.config
-C:\Users\Franco\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\bin\Debug\tik4net.objects.pdb
-C:\Users\Franco\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\bin\Debug\tik4net.objects.xml
-C:\Users\Franco\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\bin\Debug\tik4net.pdb
-C:\Users\Franco\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\bin\Debug\tik4net.xml
-C:\Users\Franco\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\bin\Debug\EntityFramework.xml
-C:\Users\Franco\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\bin\Debug\EntityFramework.SqlServer.xml
-C:\Users\Franco\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\bin\Debug\SimpleInjector.xml
-C:\Users\Franco\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\obj\Debug\VISTA.csprojResolveAssemblyReference.cache
-C:\Users\Franco\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\obj\Debug\VISTA.frmIP.resources
-C:\Users\Franco\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\obj\Debug\VISTA.frmMenu.resources
-C:\Users\Franco\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\obj\Debug\VISTA.Properties.Resources.resources
-C:\Users\Franco\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\obj\Debug\VISTA.csproj.GenerateResource.Cache
-C:\Users\Franco\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\obj\Debug\VISTA.csproj.CoreCompileInputs.cache
-C:\Users\Franco\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\obj\Debug\VISTA.exe
-C:\Users\Franco\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\obj\Debug\VISTA.pdb
 C:\Users\Jalinka\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\bin\Debug\VISTA.exe.config
 C:\Users\Jalinka\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\bin\Debug\VISTA.exe
 C:\Users\Jalinka\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\bin\Debug\VISTA.pdb
@@ -107,21 +20,14 @@ C:\Users\Jalinka\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\bin\Debug\Entity
 C:\Users\Jalinka\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\Jalinka\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\bin\Debug\SimpleInjector.xml
 C:\Users\Jalinka\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\obj\Debug\VISTA.csprojResolveAssemblyReference.cache
+C:\Users\Jalinka\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\obj\Debug\VISTA.Clientes.frmFiltrarCliente.resources
+C:\Users\Jalinka\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\obj\Debug\VISTA.Conexiones.frmAgregarConexion.resources
+C:\Users\Jalinka\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\obj\Debug\VISTA.Conexiones.frmGestionarConexiones.resources
 C:\Users\Jalinka\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\obj\Debug\VISTA.frmIP.resources
 C:\Users\Jalinka\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\obj\Debug\VISTA.frmMenu.resources
+C:\Users\Jalinka\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\obj\Debug\VISTA.Login.resources
 C:\Users\Jalinka\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\obj\Debug\VISTA.Properties.Resources.resources
 C:\Users\Jalinka\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\obj\Debug\VISTA.csproj.GenerateResource.Cache
 C:\Users\Jalinka\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\obj\Debug\VISTA.csproj.CoreCompileInputs.cache
 C:\Users\Jalinka\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\obj\Debug\VISTA.exe
 C:\Users\Jalinka\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\obj\Debug\VISTA.pdb
-D:\Elio\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\obj\Debug\VISTA.Conexiones.frmGestionarConexiones.resources
-C:\Users\Jalinka\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\obj\Debug\VISTA.Conexiones.frmGestionarConexiones.resources
-D:\Elio\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\obj\Debug\VISTA.Conexiones.frmAgregarConexion.resources
-<<<<<<< HEAD
-D:\Elio\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\obj\Debug\VISTA.Clientes.frmFiltrarCliente.resources
-=======
-C:\Users\Jalinka\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\obj\Debug\VISTA.Conexiones.frmAgregarConexion.resources
-C:\Users\Jalinka\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\obj\Debug\VISTA.Login.resources
->>>>>>> f8d06738fd6e94c89aad21dad9154deaa57662ec
-D:\Elio\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\obj\Debug\VISTA.Login.resources
-C:\Users\Jalinka\Documents\GitHub\ISP-GESTION\ISP-GESTION\VISTA\obj\Debug\VISTA.Clientes.frmFiltrarCliente.resources
