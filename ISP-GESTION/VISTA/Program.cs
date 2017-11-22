@@ -18,7 +18,7 @@ namespace VISTA
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             MODELO.SingletonContext.CreateInstance();
-            Application.Run(new frmMenu());
+            Application.Run(new Login());
         }
     }
 }
