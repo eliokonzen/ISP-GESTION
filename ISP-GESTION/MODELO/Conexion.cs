@@ -27,13 +27,9 @@ namespace MODELO
 
         public string RemoteAddress { get; set; }
 
-        public int Plan { get; set; }
 
-
-<<<<<<< HEAD
             public Plan Plan { get; set; }
             public Cliente Cliente { get; set; }
-=======
->>>>>>> f460fdcffdad8fc2450df97822e00912fd86479d
+
     }
 }
