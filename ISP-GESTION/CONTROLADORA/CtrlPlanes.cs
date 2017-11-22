@@ -13,14 +13,14 @@ namespace CONTROLADORA
         public void AddPlan(Plan oPlan)
         {
             var con = SingletonContext.GetContext();
-            con.CtrlPlanes.Add(oPlan);
+            con.Planes.Add(oPlan);
             con.SaveChanges();
         }
 
         public List<Plan> DBPlanes()
         {
             var context = SingletonContext.GetContext();
-            var attr = context.CtrlPlanes.ToList();
+            var attr = context.Planes.ToList();
             return attr.ToList();
 
         }
