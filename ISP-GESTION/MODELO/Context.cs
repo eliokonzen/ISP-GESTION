@@ -28,7 +28,11 @@ namespace MODELO
             modelBuilder.Entity<Plan>()
              .HasKey(_ => _.Id)
              .HasMany(_ => _.Conexiones);
-            
+
+
+            modelBuilder.Entity<Cliente>()
+                .HasKey(_ => _.Id)
+                .HasMany(_ => _.Conexiones);
             
            
              
@@ -42,6 +46,7 @@ namespace MODELO
 
         public DbSet<Conexion> Conexiones { get; set; }
         public DbSet<Plan> Planes { get; set; }
+        public DbSet<Cliente> Clientes { get; set; }
        
 
     }

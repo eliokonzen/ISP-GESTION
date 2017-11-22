@@ -55,6 +55,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Clientes\frmFiltrarCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Clientes\frmFiltrarCliente.Designer.cs">
+      <DependentUpon>frmFiltrarCliente.cs</DependentUpon>
+    </Compile>
     <Compile Include="Conexiones\frmAgregarConexion.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -81,6 +87,9 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Clientes\frmFiltrarCliente.resx">
+      <DependentUpon>frmFiltrarCliente.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Conexiones\frmAgregarConexion.resx">
       <DependentUpon>frmAgregarConexion.cs</DependentUpon>
     </EmbeddedResource>
