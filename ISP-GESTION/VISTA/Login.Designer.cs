@@ -30,8 +30,8 @@
         {
             this.btnACEPTAR = new System.Windows.Forms.Button();
             this.btnSALIR = new System.Windows.Forms.Button();
-            this.textBox1 = new System.Windows.Forms.TextBox();
-            this.textBox2 = new System.Windows.Forms.TextBox();
+            this.txtUsuario = new System.Windows.Forms.TextBox();
+            this.txtContraseña = new System.Windows.Forms.TextBox();
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.lblCONTRASENA = new System.Windows.Forms.Label();
@@ -58,20 +58,20 @@
             this.btnSALIR.UseVisualStyleBackColor = true;
             this.btnSALIR.Click += new System.EventHandler(this.btnSALIR_Click);
             // 
-            // textBox1
+            // txtUsuario
             // 
-            this.textBox1.Location = new System.Drawing.Point(42, 35);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(100, 20);
-            this.textBox1.TabIndex = 2;
+            this.txtUsuario.Location = new System.Drawing.Point(42, 35);
+            this.txtUsuario.Name = "txtUsuario";
+            this.txtUsuario.Size = new System.Drawing.Size(100, 20);
+            this.txtUsuario.TabIndex = 2;
             // 
-            // textBox2
+            // txtContraseña
             // 
-            this.textBox2.Location = new System.Drawing.Point(42, 98);
-            this.textBox2.Name = "textBox2";
-            this.textBox2.PasswordChar = '*';
-            this.textBox2.Size = new System.Drawing.Size(100, 20);
-            this.textBox2.TabIndex = 3;
+            this.txtContraseña.Location = new System.Drawing.Point(42, 98);
+            this.txtContraseña.Name = "txtContraseña";
+            this.txtContraseña.PasswordChar = '*';
+            this.txtContraseña.Size = new System.Drawing.Size(100, 20);
+            this.txtContraseña.TabIndex = 3;
             // 
             // label1
             // 
@@ -120,8 +120,8 @@
             this.Controls.Add(this.lblCONTRASENA);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
-            this.Controls.Add(this.textBox2);
-            this.Controls.Add(this.textBox1);
+            this.Controls.Add(this.txtContraseña);
+            this.Controls.Add(this.txtUsuario);
             this.Controls.Add(this.btnSALIR);
             this.Controls.Add(this.btnACEPTAR);
             this.Name = "Login";
@@ -136,8 +136,8 @@
 
         private System.Windows.Forms.Button btnACEPTAR;
         private System.Windows.Forms.Button btnSALIR;
-        private System.Windows.Forms.TextBox textBox1;
-        private System.Windows.Forms.TextBox textBox2;
+        private System.Windows.Forms.TextBox txtUsuario;
+        private System.Windows.Forms.TextBox txtContraseña;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label lblCONTRASENA;

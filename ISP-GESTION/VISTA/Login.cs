@@ -21,10 +21,30 @@ namespace VISTA
 
         private void btnACEPTAR_Click(object sender, EventArgs e)
         {
+            /*
+            if (txtUsuario.Text == "admin")
+            {
+                if (txtContraseña.Text == "admin")
+                {
+                    this.Hide();
+                    frmMenu frm = new frmMenu();
+                    frm.ShowDialog();
+                }
+                else
+                {
+                    lblCONTRASENA.Visible = true;
+                }
+            }
+            else
+            {
+                lblUSUARIO.Visible = true;
+            }
+
+    */
+
             this.Hide();
             frmMenu frm = new frmMenu();
             frm.ShowDialog();
-            
         }
 
         private void btnSALIR_Click(object sender, EventArgs e)
