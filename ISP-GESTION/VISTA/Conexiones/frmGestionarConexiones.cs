@@ -52,5 +52,24 @@ namespace VISTA.Conexiones
             frmAgregarConexion frm = new frmAgregarConexion();
             frm.ShowDialog();
         }
+
+        private void btnFlitrar_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnEliminar_Click(object sender, EventArgs e)
+        {
+            if(dgvConexiones.CurrentRow.DataBoundItem)
+            {
+
+            }
+            MessageBox.Show("Desea eliminar la Conexion?", "Alerta", MessageBoxButtons.YesNo);
+            DialogResult resultado = new DialogResult();
+            if (resultado == DialogResult.OK)
+            {
+                
+            }
+        }
     }
 }

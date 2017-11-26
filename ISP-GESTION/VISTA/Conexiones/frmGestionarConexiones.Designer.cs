@@ -64,6 +64,7 @@
             this.btnEliminar.TabIndex = 2;
             this.btnEliminar.Text = "Eliminar";
             this.btnEliminar.UseVisualStyleBackColor = true;
+            this.btnEliminar.Click += new System.EventHandler(this.btnEliminar_Click);
             // 
             // btnModificar
             // 
@@ -92,6 +93,7 @@
             this.btnFlitrar.TabIndex = 5;
             this.btnFlitrar.Text = "Filtar";
             this.btnFlitrar.UseVisualStyleBackColor = true;
+            this.btnFlitrar.Click += new System.EventHandler(this.btnFlitrar_Click);
             // 
             // txtCampoFiltrado
             // 

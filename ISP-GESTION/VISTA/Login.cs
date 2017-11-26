@@ -23,6 +23,7 @@ namespace VISTA
         {
             frmMenu frm = new frmMenu();
             frm.ShowDialog();
+            
         }
 
         private void btnSALIR_Click(object sender, EventArgs e)
