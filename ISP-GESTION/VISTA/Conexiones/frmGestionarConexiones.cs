@@ -60,6 +60,7 @@ namespace VISTA.Conexiones
 
         private void btnEliminar_Click(object sender, EventArgs e)
         {
+            /*
             if(dgvConexiones.CurrentRow.DataBoundItem)
             {
 
@@ -70,6 +71,7 @@ namespace VISTA.Conexiones
             {
                 
             }
+            */
         }
     }
 }

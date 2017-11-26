@@ -21,6 +21,7 @@ namespace VISTA
 
         private void btnACEPTAR_Click(object sender, EventArgs e)
         {
+            this.Hide();
             frmMenu frm = new frmMenu();
             frm.ShowDialog();
             

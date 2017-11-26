@@ -17,11 +17,11 @@ namespace VISTA.Clientes
         {
             InitializeComponent();
         }
-        public MODELO.Cliente oFiltardo;
+        public MODELO.Cliente oFiltrado;
         private void btnAceptar_Click(object sender, EventArgs e)
         {
-            oFiltardo = new MODELO.Cliente();
-            oFiltardo = (Cliente)dgvClientes.CurrentRow.DataBoundItem;
+            oFiltrado = new MODELO.Cliente();
+            oFiltrado = (Cliente)dgvClientes.CurrentRow.DataBoundItem;
             DialogResult = DialogResult.OK;
             this.Close();
         }

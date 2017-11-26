@@ -35,7 +35,7 @@ namespace VISTA.Conexiones
             if (frmFiltrar.ShowDialog() == DialogResult.OK)
             {
                 MessageBox.Show("s");
-                oCliente = frmFiltrar.oFiltardo;
+                oCliente = frmFiltrar.oFiltrado;
                 txtClienteNombre.Text = oCliente.Nombre + " " + oCliente.Apellido;
                 txtOrganizacion.Text = oCliente.Organizacion;
                
